@@ -1,3 +1,8 @@
+# Exercise2Bautista 
+cd simple-crud
+npm install
+ng s
+
 # SimpleCrud
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
